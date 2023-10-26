@@ -174,11 +174,11 @@ a {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #3b5d50;
-    border-color: #3b5d50; }
+    background: #f9bf29;
+    border-color: #f9bf29; }
     .btn.btn-primary:hover {
-      background: #314d43;
-      border-color: #314d43; }
+      background: #f8b810;
+      border-color: #f8b810; }
   .btn.btn-secondary {
     color: #2f2f2f;
     background: #f9bf29;
@@ -457,7 +457,7 @@ a {
       line-height: 58px;
       border-radius: 50%;
       background: rgba(59, 93, 80, 0.1);
-      color: #2f2f2f;
+      color: #000000;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
       transition: .3s all ease; }
@@ -559,7 +559,7 @@ a {
     .footer-section .subscription-form h3 {
       font-size: 18px;
       font-weight: 500;
-      color: #3b5d50; }
+      color: #4a4a48; }
     .footer-section .subscription-form .form-control {
       height: 50px;
       border-radius: 10px;
@@ -599,7 +599,7 @@ a {
     font-size: 32px;
     font-weight: 500;
     text-decoration: none;
-    color: #3b5d50; }
+    color: #40413e; }
   .footer-section .custom-social li {
     margin: 2px;
     display: inline-block; }
@@ -610,7 +610,7 @@ a {
       line-height: 40px;
       display: inline-block;
       background: #dce5e4;
-      color: #3b5d50;
+      color: #4E4FEB;
       border-radius: 50%; }
       .footer-section .custom-social li a:hover {
         background: #3b5d50;
